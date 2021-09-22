@@ -1,0 +1,5 @@
+/*Aligns texts to the right of page with a margin of 10px from the right-most side.*/
+.AlignRight{
+    float:right;
+    margin-right: 10px;
+}
