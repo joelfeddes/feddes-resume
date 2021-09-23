@@ -1,5 +1,5 @@
 
-.PageHeader {text-align: center;}
+#PageHeader {text-align: center;}
 #Center {text-align: center;}
 
 
@@ -8,8 +8,8 @@ hr {
     border: 1px solid black;
   }
 
-/*Aligns text left and indents 20px to effectively provide a tab-like indentation*/
-.Tab{
+  /*Aligns text left and indents 20px to effectively provide a tab-like indentation*/
+#Indentation{
     text-align: left;
     margin-left: 20px;
 }
@@ -21,18 +21,19 @@ hr {
     margin-left:20px;
 }
 
-/*Aligns texts to the right of page with a margin of 10px from the right-most side.*/
-.AlignRight{
-    float:right;
-    margin-right: 10px;
-}
-/*Aligns texts to the left of page with a margin of 10px from the left-most side.*/
-.AlignLeft{
-    text-align: left;
-    margin-left: 10px;
-}
 /*wraps lines with over 100 characters*/
 .WordWrap{
     max-width: 100em;
 }
 
+/*Aligns texts to the left of page with a margin of 10px from the left-most side.*/
+.AlignLeft{
+    text-align: left;
+    margin-left: 10px;
+}
+
+/*Aligns texts to the right of page with a margin of 10px from the right-most side.*/
+.AlignRight{
+    float:right;
+    margin-right: 10px;
+}
