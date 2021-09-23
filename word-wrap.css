@@ -1,4 +1,0 @@
-/*wraps lines with over 100 characters*/
-.WordWrap{
-    max-width: 100em;
-}
