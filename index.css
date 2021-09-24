@@ -3,7 +3,9 @@
 #Center {text-align: center;}
 /*Wraps resume to limit width of resume*/
 #ResumeWrap{
-    max-width: 100em;
+    max-width: 150em;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 /*Constructs the "line" used for the primary headers of my resume*/
 hr {
