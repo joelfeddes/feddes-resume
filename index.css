@@ -9,7 +9,7 @@ hr {
   }
 
   /*Aligns text left and indents 20px to effectively provide a tab-like indentation*/
-#Indentation{
+.Indentation{
     text-align: left;
     margin-left: 20px;
 }
