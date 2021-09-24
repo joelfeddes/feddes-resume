@@ -1,8 +1,10 @@
 
 #PageHeader {text-align: center;}
 #Center {text-align: center;}
-
-
+/*Wraps resume to limit width of resume*/
+#ResumeWrap{
+    max-width: 100em;
+}
 /*Constructs the "line" used for the primary headers of my resume*/
 hr {
     border: 1px solid black;
